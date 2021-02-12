@@ -6,7 +6,7 @@
   <link href="https://li-hui327.github.io/My2Blog/atom.xml" rel="self"/>
   
   <link href="https://li-hui327.github.io/My2Blog/"/>
-  <updated>2021-02-11T12:17:38.816Z</updated>
+  <updated>2021-02-12T13:10:24.052Z</updated>
   <id>https://li-hui327.github.io/My2Blog/</id>
   
   <author>
@@ -17,13 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>新年祝福</title>
+    <link href="https://li-hui327.github.io/My2Blog/2021/02/12/%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F/"/>
+    <id>https://li-hui327.github.io/My2Blog/2021/02/12/%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F/</id>
+    <published>2021-02-12T12:57:12.000Z</published>
+    <updated>2021-02-12T13:10:24.052Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/5290131_p0.jpg">  </p><a id="more"></a>   <p><strong> 新的一年，我在博客上祝福大家愿所求皆如愿，所行化坦途！！！</strong></p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/5290131_p0.jpg&quot;&gt;  &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://li-hui327.github.io/My2Blog/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="生活" scheme="https://li-hui327.github.io/My2Blog/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
     <title>安装 Git 以及连接 GitHub</title>
     <link href="https://li-hui327.github.io/My2Blog/2021/02/10/%E5%AE%89%E8%A3%85Git%E4%BB%A5%E5%8F%8A%E8%BF%9E%E6%8E%A5GitHub/"/>
     <id>https://li-hui327.github.io/My2Blog/2021/02/10/%E5%AE%89%E8%A3%85Git%E4%BB%A5%E5%8F%8A%E8%BF%9E%E6%8E%A5GitHub/</id>
     <published>2021-02-10T07:35:40.000Z</published>
-    <updated>2021-02-11T12:17:38.816Z</updated>
+    <updated>2021-02-12T12:18:43.390Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/84906115_p0.jpg"></p><a id="more"></a><p>最开始我是参考博主小坏孩的博客制作的，传送门：<a href="https://www.sakura521.cn/technology/hexoTutorial.html">Hexo 博客 搭建超详细教程</a>，我在这里简单介绍一下步骤：   </p><ul><li>安装<ul><li>Git 下载地址：<a href="https://git-scm.com/download">https://git-scm.com/download</a> 根据对应的版本下载安装即可   如果不想修改安装目录的话，一路 next 即可，修改安装目录后也是一路 next 即可      </li></ul></li><li>检查<ul><li>检查 git 是否安装成功，在 cmd 窗口中，输入 git 显示如下：<br><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/git.PNG" alt="git 显示">        </li></ul></li><li>连接<ul><li>Git 连接 Github，首先在 <a href="https://github.com/">Github</a> 上注册一个账号(有账号的可以先建一个仓库，之后什么也不做，留着之后用)          </li></ul></li><li>配置<ul><li>可在桌面右键菜单点击 Git Bash Here，如下图：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/git%20bash.jpg"> 接着在打开的窗口设置 user.name 和 user.email 配置信息：   </li></ul><ol><li><code>git config --global user.name &quot; 你的 GitHub 用户名 &quot;</code>    回车</li><li><code>git config --global user.email &quot; 你的 GitHub 注册邮箱 &quot;</code>    回车</li></ol><ul><li>然后生成 ssh 密钥文件<br><code>ssh-keygen -t rsa -C &quot; 你的 GitHub 注册邮箱 &quot;</code>  回车    </li><li>在 C:\Users\ 用户名.ssh 中找到 id_rsa.pub(用记事本打开)，将里面的所有内容全部复制出来   </li><li>在 <a href="https://github.com/settings/keys">https://github.com/settings/keys</a> 点击 New SSH key, 如下：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ssh%20key.PNG">  </li><li>Title 随便填写，Key 粘贴刚才复制的 key，然后点击 Add SSH key         </li></ul></li><li>检验<ul><li>在 Git Bash 中输入 <code>ssh git@github.com</code> 如果显示下图说明连接成功 <img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ssh%20git.PNG">    </li></ul></li><li>结束</li></ul>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/84906115_p0.jpg"></p><a id="more"></a>   <ol><li>安装</li></ol><ul><li>Git 下载地址：<a href="https://git-scm.com/download">https://git-scm.com/download</a> 根据对应的版本下载安装即可   如果不想修改安装目录的话，一路 next 即可，修改安装目录后也是一路 next 即可    </li></ul><ol start="2"><li>检查</li></ol><ul><li>检查 git 是否安装成功，在 cmd 窗口中，输入 git 显示如下：<br>  <img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/git.PNG" alt="git 显示">            </li></ul><ol start="3"><li>连接</li></ol><ul><li>Git 连接 Github，首先在 <a href="https://github.com/">Github</a> 上注册一个账号(有账号的可以先建一个仓库，之后什么也不做，留着之后用)    </li></ul><ol start="4"><li>配置</li></ol><ul><li>可在桌面右键菜单点击 Git Bash Here，如下图：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/git%20bash.jpg"> 接着在打开的窗口设置 user.name 和 user.email 配置信息：   </li></ul><ol><li><code>git config --global user.name &quot; 你的 GitHub 用户名 &quot;</code>    回车</li><li><code>git config --global user.email &quot; 你的 GitHub 注册邮箱 &quot;</code>    回车</li></ol><ul><li>然后生成 ssh 密钥文件<br>  <code>ssh-keygen -t rsa -C &quot; 你的 GitHub 注册邮箱 &quot;</code>  回车    </li><li>在 C:\Users\ 用户名.ssh 中找到 id_rsa.pub(用记事本打开)，将里面的所有内容全部复制出来   </li><li>在 <a href="https://github.com/settings/keys">https://github.com/settings/keys</a> 点击 New SSH key, 如下：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ssh%20key.PNG">  </li><li>Title 随便填写，Key 粘贴刚才复制的 key，然后点击 Add SSH key        </li></ul><ol start="5"><li>检验</li></ol><ul><li>在 Git Bash 中输入 <code>ssh git@github.com</code> 如果显示下图说明连接成功 <img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ssh%20git.PNG">     </li></ul><ol start="6"><li>结束</li></ol>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/84906115_p0.jpg&quot;&gt;&lt;/p&gt;</summary>
@@ -42,9 +63,9 @@
     <link href="https://li-hui327.github.io/My2Blog/2021/02/09/%E5%AE%89%E8%A3%85Node-js/"/>
     <id>https://li-hui327.github.io/My2Blog/2021/02/09/%E5%AE%89%E8%A3%85Node-js/</id>
     <published>2021-02-09T13:46:38.000Z</published>
-    <updated>2021-02-11T12:18:07.381Z</updated>
+    <updated>2021-02-12T12:11:15.590Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/tianqizhizi.jpg"></p><a id="more"></a><ul><li><p>下载 <br>  <a href="https://nodejs.org/zh-cn/download"> 官网下载地址</a>   </p></li><li><p>安装<br>  如果不想修改安装目录的话，一路 next 即可，修改安装目录后也是一路 next 即可    </p></li><li><p>检验<br>  在 cmd 窗口中输入如下指令：    </p><ol><li><code>node -v</code>    </li><li><code>npm -v</code><br>显示结果如下代表安装成功：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/node%20-v.PNG">    </li></ol></li><li><p>配值环境变量     </p><ol><li>首先在 NodeJs 这个文件夹 (即刚刚安装 node.js 所在目录下) 建立”node_global”和”node_cache”两个文件夹，如图：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/node_global.PNG">    </li><li>打开 cmd(是以管理员身份运行，我以前没有以管理员身份运行，后面就会出现错误)，输入：  <ul><li><code>npm config set prefix &quot; 你的路径 \nodejs\node_global&quot;</code>  回车   </li><li><code>npm config set cache &quot; 你的路径 \nodejs\node_cache&quot;</code>  回车   </li><li>然后关闭 cmd 窗口，使用 win+r 键输入 control 打开控制面板，找到系统 - 高级系统设置 - 高级 - 环境变量，在 <em> 系统变量 </em> 下新建变量 <code>NODE_PATH</code> ，变量值填写：<code>你的路径 \nodejs\node_global\node_modules</code>     </li><li>在变量 path 下新建新的路径：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/%E8%AE%BE%E7%BD%AEnode%E8%B7%AF%E5%BE%84.PNG">   <em>注意下面这个是设置你的 hexo 路径，我是因为自定义安装 node.js，所以需要手动设置 hexo 指令路径，你需要找到它，并 path 上添加这个路径</em>      </li></ul></li><li>可能出现的错误     <ul><li>在你的博客文件夹中按住 shift 同时右键鼠标，点击 * 在此处打开 PowerShell 窗口(s)*，如果你已经安装 hexo，输入<code>hexo -v</code>，若出现既不是内部也不是外部指令，就需要设置 hexo 的路径      </li></ul></li></ol></li><li><p>结束</p></li></ul>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/tianqizhizi.jpg"></p><a id="more"></a><ul><li><p>下载 <br>  <a href="https://nodejs.org/zh-cn/download"> 官网下载地址</a>   </p></li><li><p>安装 <br> 如果不想修改安装目录的话，一路 next 即可，修改安装目录后也是一路 next 即可    </p></li><li><p>检验 <br> 在 cmd 窗口中输入如下指令：    </p><ol><li><code>node -v</code>    </li><li><code>npm -v</code><br>显示结果如下代表安装成功：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/node%20-v.PNG">     </li></ol></li><li><p>配值环境变量     </p></li></ul><ol><li>首先在 NodeJs 这个文件夹 (即刚刚安装 node.js 所在目录下) 建立”node_global”和”node_cache”两个文件夹，如图：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/node_global.PNG">    </li><li>打开 cmd(是以管理员身份运行，我以前没有以管理员身份运行，后面就会出现错误)，输入：  </li></ol><ul><li><code>npm config set prefix &quot; 你的路径 \nodejs\node_global&quot;</code>  回车   </li><li><code>npm config set cache &quot; 你的路径 \nodejs\node_cache&quot;</code>  回车   </li><li>然后关闭 cmd 窗口，使用 win+r 键输入 control 打开控制面板，找到系统 - 高级系统设置 - 高级 - 环境变量，在 <em> 系统变量 </em> 下新建变量 <code>NODE_PATH</code> ，变量值填写：<br><code>你的路径 \nodejs\node_global\node_modules</code>     </li><li>在变量 path 下新建新的路径：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/%E8%AE%BE%E7%BD%AEnode%E8%B7%AF%E5%BE%84.PNG">   <em>注意下面这个是设置你的 hexo 路径，我是因为自定义安装 node.js，所以需要手动设置 hexo 指令路径，你需要找到它，并 path 上添加这个路径</em>      </li></ul><ol start="3"><li>可能出现的错误     </li></ol><ul><li>在你的博客文件夹中按住 shift 同时右键鼠标，点击 * 在此处打开 PowerShell 窗口(s)*，如果你已经安装 hexo，输入<code>hexo -v</code>，若出现既不是内部也不是外部指令，就需要设置 hexo 的路径          </li></ul><ul><li>结束</li></ul>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/tianqizhizi.jpg&quot;&gt;&lt;/p&gt;</summary>
@@ -63,9 +84,9 @@
     <link href="https://li-hui327.github.io/My2Blog/2021/02/05/hello-world/"/>
     <id>https://li-hui327.github.io/My2Blog/2021/02/05/hello-world/</id>
     <published>2021-02-05T12:41:25.833Z</published>
-    <updated>2021-02-11T14:08:03.572Z</updated>
+    <updated>2021-02-12T12:24:53.576Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/63322565_p0.jpg">     </p><a id="more"></a><p>欢迎来到我的博客！这是我用 hexo 建立的第一个博客静态网页，部署在 <a href="https://github.com/">github</a> 上的，因此难免会有些许不尽人意的地方，但我会努力改善的，我会分享一些我平时所学的知识与经验，也分享一些我遇到过的技术错误，我相信有心人天不负，谢谢！      </p><h2 id="hexo 搭建博客经验分享"><a href="#hexo 搭建博客经验分享" class="headerlink" title="hexo 搭建博客经验分享"></a>hexo 搭建博客经验分享</h2><ol><li><p><strong>安装 Git 以及连接 GitHub</strong><br> <a href="/My2Blog/2021/02/10/%E5%AE%89%E8%A3%85Git%E4%BB%A5%E5%8F%8A%E8%BF%9E%E6%8E%A5GitHub">详细教程</a>      </p></li><li><p><strong>安装 Node.js</strong><br> <a href="/My2Blog/2021/02/09/%E5%AE%89%E8%A3%85Node-js">详细教程</a>   </p></li><li><p><strong>安装 Hexo</strong>   </p><ul><li>首先创建一个文件夹，命名 (感觉最好全是英文)，进入文件夹后，按住 shift 键同时右键鼠标，点击<code> 在此处打开 PowerShell 窗口 (s)</code> ，使用 npm 命令安装 hexo，<code>npm install -g hexo-cli</code> ，安装完后输入<code>hexo -v</code> 来验证是否安装成功，若显示既不是外部也不是内部命令，则请参考文章：<a href="/2021-02-09-%E5%AE%89%E8%A3%85Node-js"> 安装 Node.js</a> ，若提示这是非签名脚本，已被系统拒绝执行，请参考以下步骤(没有则请忽略😂)：     <ul><li>win10 下关闭脚本执行安全策略<br>  点击开始，设置，搜索 power，点击 powershell developer settings，往下拉，找到应用以下设置已执行 powershell 脚本，勾选，点击应用就可以了  </li></ul></li><li><code>hexo -v</code>正确显示之后就开始初始化网址，输入<br>  <code>hexo init</code>   </li><li>接着输入 <code>npm install</code> 来安装这个网址需要的插件<br>  <code>npm install</code>    </li><li>完成后，输入 <code>hexo g</code> 来生成静态网页<br>  <code>hexo g</code>   </li><li>结果显示：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/hexo%20g.JPG">   </li><li><code>hexo s</code>开启本地服务器<br>  <code>hexo s</code>   </li><li>结果显示：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/hexo%20s.JPG"> 这就代表启动成功了。  </li><li>可在浏览器输入网址 <code>http://localhost:4000</code> 就可以查看了，关闭本地服务可直接 ctrl+c     </li></ul></li><li><p><strong>后续美化</strong>   </p><ul><li>我正在学习，慢慢添加吧，网上有很多教程的，这里推荐 <a href="hexo.io"> 博客主题网站</a>，里面有许多精美主题，个个都是大佬，相信只要我们不断努力学习，也能达到大佬的水平的，相信自己😂！</li></ul></li></ol>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/63322565_p0.jpg">     </p><a id="more"></a><p>欢迎来到我的博客！这是我用 hexo 建立的第一个博客静态网页，部署在 <a href="https://github.com/">github</a> 上的，因此难免会有些许不尽人意的地方，但我会努力改善的，我会分享一些我平时所学的知识与经验，也分享一些我遇到过的技术错误，我相信有心人天不负，谢谢！      </p><h2 id="hexo 搭建博客经验分享"><a href="#hexo 搭建博客经验分享" class="headerlink" title="hexo 搭建博客经验分享"></a>hexo 搭建博客经验分享 </h2><h3 id="前言："><a href="# 前言：" class="headerlink" title="前言："></a> 前言：</h3><p>这就相当是制作一个静态网页，但是不用自掏资本，但只能是轻量的网页，因此非常适合博客的搭建，本网页界面就是用 hexo 制作的，也许不足以激发你的兴趣，但是它也可以用来分享你的生活的点点滴滴，只要你有一颗好奇的心，以及敢于去尝试的勇气，搞定博客不在话下。   </p><p><strong>最开始我是参考博主小坏孩的博客制作的，传送门：<a href="https://www.sakura521.cn/technology/hexoTutorial.html">Hexo 博客 搭建超详细教程</a>，我在这里简单介绍一下步骤：</strong>  </p><ol><li><strong>安装 Git 以及连接 GitHub</strong><br> <a href="/My2Blog/2021/02/10/%E5%AE%89%E8%A3%85Git%E4%BB%A5%E5%8F%8A%E8%BF%9E%E6%8E%A5GitHub">详细教程</a>      </li><li><strong>安装 Node.js</strong><br> <a href="/My2Blog/2021/02/09/%E5%AE%89%E8%A3%85Node-js">详细教程</a>   </li><li><strong>安装 Hexo</strong>   </li></ol><ul><li>首先创建一个文件夹，命名 (感觉最好全是英文)，进入文件夹后，按住 shift 键同时右键鼠标，点击<code> 在此处打开 PowerShell 窗口 (s)</code> ，使用 npm 命令安装 hexo，<code>npm install -g hexo-cli</code> ，安装完后输入<code>hexo -v</code> 来验证是否安装成功，若显示既不是外部也不是内部命令，则请参考文章：<a href="/2021-02-09-%E5%AE%89%E8%A3%85Node-js"> 安装 Node.js</a> ，若提示这是非签名脚本，已被系统拒绝执行，请参考以下步骤(没有则请忽略😂)：     <ul><li>win10 下关闭脚本执行安全策略 <br> 点击开始，设置，搜索 power，点击 powershell developer settings，往下拉，找到应用以下设置已执行 powershell 脚本，勾选，点击应用就可以了  </li></ul></li><li>hexo -v 正确显示之后就开始初始化网址，输入<br>  <code>hexo init</code>   </li><li>接着输入 npm install 来安装这个网址需要的插件<br>  <code>npm install</code>    </li><li>完成后，输入 hexo g 来生成静态网页<br>  <code>hexo g</code>   </li><li>结果显示：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/hexo%20g.JPG">   </li><li>hexo s 开启本地服务器<br>  <code>hexo s</code>   </li><li>结果显示：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/hexo%20s.JPG"> 这就代表启动成功了。  </li><li>可在浏览器输入网址 <a href="http://localhost:4000/">http://localhost:4000</a> 就可以查看了，关闭本地服务可直接 ctrl+c     </li></ul><ol start="4"><li><strong>后续美化</strong>   </li></ol><ul><li>我正在学习，慢慢添加吧，网上有很多教程的，这里推荐 <a href="https://hexo.io/"> 博客主题网站</a>，里面有许多精美主题，个个都是大佬，相信只要我们不断努力学习，也能达到大佬的水平的，相信自己😂！</li></ul>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/63322565_p0.jpg&quot;&gt;     &lt;/p&gt;</summary>
