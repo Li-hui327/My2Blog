@@ -6,7 +6,7 @@
   <link href="https://li-hui327.github.io/My2Blog/atom.xml" rel="self"/>
   
   <link href="https://li-hui327.github.io/My2Blog/"/>
-  <updated>2021-02-26T13:19:10.726Z</updated>
+  <updated>2021-03-01T06:45:55.783Z</updated>
   <id>https://li-hui327.github.io/My2Blog/</id>
   
   <author>
@@ -17,13 +17,34 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Java 中的空对象</title>
+    <link href="https://li-hui327.github.io/My2Blog/2021/03/01/Java%E4%B8%AD%E7%9A%84%E7%A9%BA%E5%AF%B9%E8%B1%A1/"/>
+    <id>https://li-hui327.github.io/My2Blog/2021/03/01/Java%E4%B8%AD%E7%9A%84%E7%A9%BA%E5%AF%B9%E8%B1%A1/</id>
+    <published>2021-03-01T06:36:41.000Z</published>
+    <updated>2021-03-01T06:45:55.783Z</updated>
+    
+    <content type="html"><![CDATA[<p>详细介绍可参考 <a href="https://blog.csdn.net/lgh2691861/article/details/52248038?utm_source=app&app_version=4.5.2">《Java 中空对象（null) 引用方法及属性简单分析！》</a>  </p><a id="more"></a>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;详细介绍可参考&lt;a href=&quot;https://blog.csdn.net/lgh2691861/article/details/52248038?utm_source=app&amp;app_version=4.5.2&quot;&gt;《Java中空对象（null)引用方法及属性简单分析！》&lt;/a&gt;  &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Java" scheme="https://li-hui327.github.io/My2Blog/categories/Java/"/>
+    
+    
+    <category term="学习" scheme="https://li-hui327.github.io/My2Blog/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>中国程序员 VS 美国程序员，太形象了...</title>
     <link href="https://li-hui327.github.io/My2Blog/2021/02/26/%E4%B8%AD%E5%9B%BD%E7%A8%8B%E5%BA%8F%E5%91%98VS%E7%BE%8E%E5%9B%BD%E7%A8%8B%E5%BA%8F%E5%91%98%EF%BC%8C%E5%A4%AA%E5%BD%A2%E8%B1%A1%E4%BA%86/"/>
     <id>https://li-hui327.github.io/My2Blog/2021/02/26/%E4%B8%AD%E5%9B%BD%E7%A8%8B%E5%BA%8F%E5%91%98VS%E7%BE%8E%E5%9B%BD%E7%A8%8B%E5%BA%8F%E5%91%98%EF%BC%8C%E5%A4%AA%E5%BD%A2%E8%B1%A1%E4%BA%86/</id>
     <published>2021-02-26T12:35:35.000Z</published>
     <updated>2021-02-26T13:19:10.726Z</updated>
     
-    <content type="html"><![CDATA[<p>转载一篇文章，原创 <a href="https://mp.weixin.qq.com/s/tglPT8ipyUuvg6JJmm-F6A"><em> 中国程序员 VS 美国程序员，太形象了…</em></a>，作者：不笑青年，公众号：不会笑青年  </p><a id="more"></a>  <p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican2.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican3.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican4.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican5.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican6.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican7.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican8.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican9.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican10.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican11.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican12.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican13.jpg">  </p><p>本人无意侵犯原作者著作权，若此文章侵犯了您的权益，请将相关版权信息提交至邮箱<a href="mailto:&#x32;&#51;&#x32;&#50;&#48;&#x33;&#51;&#51;&#x34;&#56;&#x40;&#x71;&#113;&#x2e;&#99;&#x6f;&#x6d;">&#x32;&#51;&#x32;&#50;&#48;&#x33;&#51;&#51;&#x34;&#56;&#x40;&#x71;&#113;&#x2e;&#99;&#x6f;&#x6d;</a>，我会第一时间处理，谢谢！</p>]]></content>
+    <content type="html"><![CDATA[<p>转载一篇文章，原创 <a href="https://mp.weixin.qq.com/s/tglPT8ipyUuvg6JJmm-F6A"><em> 中国程序员 VS 美国程序员，太形象了…</em></a>，作者：不笑青年，公众号：不会笑青年  </p><a id="more"></a>  <p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican2.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican3.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican4.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican5.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican6.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican7.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican8.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican9.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican10.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican11.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican12.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican13.jpg">  </p><p>本人无意侵犯原作者著作权，若此文章侵犯了您的权益，请将相关版权信息提交至邮箱<a href="mailto:&#x32;&#51;&#50;&#x32;&#48;&#51;&#51;&#x33;&#x34;&#x38;&#64;&#x71;&#113;&#x2e;&#99;&#111;&#109;">&#x32;&#51;&#50;&#x32;&#48;&#51;&#51;&#x33;&#x34;&#x38;&#64;&#x71;&#113;&#x2e;&#99;&#111;&#109;</a>，我会第一时间处理，谢谢！</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;转载一篇文章，原创&lt;a href=&quot;https://mp.weixin.qq.com/s/tglPT8ipyUuvg6JJmm-F6A&quot;&gt;&lt;em&gt;中国程序员VS美国程序员，太形象了…&lt;/em&gt;&lt;/a&gt;，作者：不笑青年，公众号：不会笑青年  &lt;/p&gt;</summary>
