@@ -6,7 +6,7 @@
   <link href="https://li-hui327.github.io/My2Blog/atom.xml" rel="self"/>
   
   <link href="https://li-hui327.github.io/My2Blog/"/>
-  <updated>2021-03-01T14:08:48.010Z</updated>
+  <updated>2021-03-06T08:56:49.426Z</updated>
   <id>https://li-hui327.github.io/My2Blog/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Java 类和对象</title>
+    <link href="https://li-hui327.github.io/My2Blog/2021/03/06/Java%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/"/>
+    <id>https://li-hui327.github.io/My2Blog/2021/03/06/Java%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</id>
+    <published>2021-03-06T07:43:49.000Z</published>
+    <updated>2021-03-06T08:56:49.426Z</updated>
+    
+    <content type="html"><![CDATA[<p> 原创详见 <a href="http://c.biancheng.net/java/80/">Java 类和对象 </a>  </p><a id="more"></a>  <h2 id="本章学习要点"><a href="# 本章学习要点" class="headerlink" title="本章学习要点"></a> 本章学习要点 </h2><ol><li> 掌握类的声明和类的成员  </li><li> 熟悉类的构造方法及其使用  </li><li> 掌握对象的创建、销毁和使用  </li><li> 掌握 main() 方法、构造方法和析构方法的使用  </li><li> 熟悉 this 关键字的使用  </li><li> 了解系统提供的常用包  </li><li> 掌握如何声明和使用包  </li></ol><p> 本章内容：</p><table><thead><tr><th align="center">:—:</th><th align="center">:—:</th><th align="center">:—:</th><th align="center">:—:</th></tr></thead><tbody><tr><td align="center"><a href="/My2Blog/2021/02/16/%E6%B5%85%E8%B0%88Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1">1. 浅谈 Java 面向对象 </a></td><td align="center"><a href="http://c.biancheng.net/view/940.html">2. Java 认识类和对象 </a></td><td align="center"><a href="http://c.biancheng.net/view/943.html">3. Java 类的定义以及定义类时可用的关键字 </a></td><td align="center"><a href="http://c.biancheng.net/view/945.html">4. Java 类的属性：成员变量的定义和声明 </a></td></tr><tr><td align="center"><a href="http://c.biancheng.net/view/948.html">5. Java 创建一个学生类 </a></td><td align="center"><a href="http://c.biancheng.net/view/952.html">6. Java 成员方法的声明和调用 </a></td><td align="center"><a href="http://c.biancheng.net/view/953.html">7. Java this 关键字详解（3 种用法）</a></td><td align="center"><a href="http://c.biancheng.net/view/956.html">8. Java 创建对象详解（显式创建和隐含创建）</a></td></tr><tr><td align="center"><a href="https://blog.csdn.net/qq_44861675/article/details/105428749?utm_source=app&app_version=4.5.2">9. Java new 运算符深入剖析 </a></td><td align="center"><a href="http://c.biancheng.net/view/6104.html">10. Java 匿名对象 </a></td><td align="center"><a href="http://c.biancheng.net/view/957.html">11. Java 访问对象的属性和行为 </a></td><td align="center"><a href="http://c.biancheng.net/view/959.html">12. Java 对象的销毁 </a></td></tr><tr><td align="center"><a href="/My2Blog/2021/03/01/Java%E4%B8%AD%E7%9A%84%E7%A9%BA%E5%AF%B9%E8%B1%A1">13. Java 中的空对象 </a></td><td align="center"><a href="/My2Blog/2021/03/01/Java%E7%94%A8%E6%88%B7%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81%E7%A8%8B%E5%BA%8F">14. Java 用户修改密码程序 </a></td><td align="center"><a href="/My2Blog/2021/03/01/Java%E6%B3%A8%E9%87%8A-%E7%B1%BB%E3%80%81%E6%96%B9%E6%B3%95%E5%92%8C%E5%AD%97%E6%AE%B5%E6%B3%A8%E9%87%8A">15. Java 注释类、方法和字段注释 </a></td><td align="center"><a href="/My2Blog/2021/03/05/Java%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6%E4%BF%AE%E9%A5%B0%E7%AC%A6%E8%AF%A6%E8%A7%A3">16. Java 访问控制修饰符详解 </a></td></tr><tr><td align="center"><a href="http://c.biancheng.net/view/6150.html">17. Java import static 静态导入 </a></td><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;原创详见&lt;a href=&quot;http://c.biancheng.net/java/80/&quot;&gt;Java类和对象&lt;/a&gt;  &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Java" scheme="https://li-hui327.github.io/My2Blog/categories/Java/"/>
+    
+    
+    <category term="学习" scheme="https://li-hui327.github.io/My2Blog/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java 访问控制修饰符详解</title>
+    <link href="https://li-hui327.github.io/My2Blog/2021/03/05/Java%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6%E4%BF%AE%E9%A5%B0%E7%AC%A6%E8%AF%A6%E8%A7%A3/"/>
+    <id>https://li-hui327.github.io/My2Blog/2021/03/05/Java%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6%E4%BF%AE%E9%A5%B0%E7%AC%A6%E8%AF%A6%E8%A7%A3/</id>
+    <published>2021-03-05T01:54:37.000Z</published>
+    <updated>2021-03-05T01:59:52.844Z</updated>
+    
+    <content type="html"><![CDATA[<p> 详细介绍可参考 C 语言中文网 Java 教程 <a href="http://c.biancheng.net/view/965.html">《Java 访问控制修饰符详解 (public、private、protected 和 friendly)</a>  </p><a id="more"></a>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;详细介绍可参考C语言中文网Java教程&lt;a href=&quot;http://c.biancheng.net/view/965.html&quot;&gt;《Java访问控制修饰符详解(public、private、protected和friendly)&lt;/a&gt;  &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="Java" scheme="https://li-hui327.github.io/My2Blog/categories/Java/"/>
+    
+    
+    <category term="学习" scheme="https://li-hui327.github.io/My2Blog/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
   
   <entry>
     <title>Java 注释: 类、方法和字段注释</title>
@@ -86,7 +128,7 @@
     <published>2021-02-26T12:35:35.000Z</published>
     <updated>2021-02-26T13:19:10.726Z</updated>
     
-    <content type="html"><![CDATA[<p>转载一篇文章，原创 <a href="https://mp.weixin.qq.com/s/tglPT8ipyUuvg6JJmm-F6A"><em> 中国程序员 VS 美国程序员，太形象了…</em></a>，作者：不笑青年，公众号：不会笑青年  </p><a id="more"></a>  <p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican2.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican3.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican4.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican5.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican6.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican7.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican8.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican9.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican10.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican11.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican12.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican13.jpg">  </p><p>本人无意侵犯原作者著作权，若此文章侵犯了您的权益，请将相关版权信息提交至邮箱<a href="mailto:&#50;&#x33;&#x32;&#50;&#x30;&#x33;&#x33;&#x33;&#x34;&#56;&#x40;&#113;&#113;&#46;&#99;&#111;&#x6d;">&#50;&#x33;&#x32;&#50;&#x30;&#x33;&#x33;&#x33;&#x34;&#56;&#x40;&#113;&#113;&#46;&#99;&#111;&#x6d;</a>，我会第一时间处理，谢谢！</p>]]></content>
+    <content type="html"><![CDATA[<p>转载一篇文章，原创 <a href="https://mp.weixin.qq.com/s/tglPT8ipyUuvg6JJmm-F6A"><em> 中国程序员 VS 美国程序员，太形象了…</em></a>，作者：不笑青年，公众号：不会笑青年  </p><a id="more"></a>  <p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican2.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican3.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican4.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican5.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican6.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican7.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican8.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican9.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican10.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican11.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican12.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican13.jpg">  </p><p>本人无意侵犯原作者著作权，若此文章侵犯了您的权益，请将相关版权信息提交至邮箱<a href="mailto:&#x32;&#51;&#50;&#50;&#48;&#51;&#51;&#51;&#x34;&#x38;&#64;&#113;&#113;&#x2e;&#99;&#x6f;&#x6d;">&#x32;&#51;&#50;&#50;&#48;&#51;&#51;&#51;&#x34;&#x38;&#64;&#113;&#113;&#x2e;&#99;&#x6f;&#x6d;</a>，我会第一时间处理，谢谢！</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;转载一篇文章，原创&lt;a href=&quot;https://mp.weixin.qq.com/s/tglPT8ipyUuvg6JJmm-F6A&quot;&gt;&lt;em&gt;中国程序员VS美国程序员，太形象了…&lt;/em&gt;&lt;/a&gt;，作者：不笑青年，公众号：不会笑青年  &lt;/p&gt;</summary>
@@ -126,9 +168,9 @@
     <link href="https://li-hui327.github.io/My2Blog/2021/02/16/%E6%B5%85%E8%B0%88Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
     <id>https://li-hui327.github.io/My2Blog/2021/02/16/%E6%B5%85%E8%B0%88Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/</id>
     <published>2021-02-16T12:44:57.000Z</published>
-    <updated>2021-02-16T13:35:42.016Z</updated>
+    <updated>2021-03-06T08:03:55.931Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/60480506_p0.jpg">  </p><a id="more"></a>   <h1 id="前言"><a href="# 前言" class="headerlink" title="前言"></a>前言 </h1><p> 详细教程可参考<a href="http://c.biancheng.net/view/939.html">Java 面向对象：对象的概念及面向对象的三个基本特征</a> ，我就粗略介绍下我比较认为的重点。</p><h2 id="面向对象的三大核心特性"><a href="# 面向对象的三大核心特性" class="headerlink" title="面向对象的三大核心特性"></a>面向对象的三大核心特性</h2><ol><li><p>可重用性：代码重复使用，减少代码量，提高开发效率。继承、封装和多态都围绕这个核心  </p></li><li><p>可扩展性：新的功能可以很容易地加入到系统中来，便于软件的修改。  </p></li><li><p>可管理性：能够将功能与数据结合，方便管理  </p><p><strong>继承性</strong>  </p><p>Java 只支持单继承  </p><p>例如定义一个语文老师类和数学老师类，如果不采用继承方式，那么两个类中需要定义的属性和方法如图：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/3-1Q01G40613629.jpg">  </p></li></ol><p>语文老师类和数学老师类中的许多属性和方法相同，这些相同的属性和方法可以提取出放在一个父类中，这个父类用于被语文老师类和数学老师类继承。当然父类还可以继承别的类，如图所示：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/3-1Q01G40AR23.jpg" style="zoom:80%;" />  </p><p>总结上图的继承关系，可以用概括的树形关系来表示，如图所示：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/3-1Q01G40RT47.jpg">  </p><p>从图中可以看出，学校主要人员是一个大的类别，老师和学生是学校主要人员的两个子类，而老师又可以分为语文老师和数学老师两个子类，学生也可以分为班长和组长两个子类。  </p><p>使用这种层次形的分类方式，是为了将多个类的通用属性和方法提取出来，放在它们的父类中，然后只需要在子类中各自定义自己独有的属性和方法，并以继承的形式在父类中获取它们的通用属性和方法即可。  </p><p><strong>封装性</strong>  </p><p>封装是将代码及其处理的数据绑定在一起的一种编程机制。封装的目的在于保护信息  </p><p><em>Java 语言的基本封装单位是类</em>，类的用途是封装复杂性，所以类的内部有隐藏实现复杂性的机制。  </p><p><strong>多态性</strong>  </p><p>即”一个接口，多个方法”。<em>多态性允许一个接口被多个同类使用</em>，弥补了单继承的不足。多态概念可以用树形关系来表示，如图所示：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/3-1Q01G4095bW.jpg" style="zoom:50%;" /></p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/60480506_p0.jpg">  </p><a id="more"></a>   <h1 id="前言"><a href="# 前言" class="headerlink" title="前言"></a>前言 </h1><p> 详细教程可参考<a href="http://c.biancheng.net/view/939.html">Java 面向对象：对象的概念及面向对象的三个基本特征</a>，我就粗略介绍下我比较认为的重点。</p><h2 id="面向对象的三大核心特性"><a href="# 面向对象的三大核心特性" class="headerlink" title="面向对象的三大核心特性"></a>面向对象的三大核心特性</h2><ol><li><p>可重用性：代码重复使用，减少代码量，提高开发效率。继承、封装和多态都围绕这个核心  </p></li><li><p>可扩展性：新的功能可以很容易地加入到系统中来，便于软件的修改。  </p></li><li><p>可管理性：能够将功能与数据结合，方便管理  </p><p><strong>继承性</strong>  </p><p>Java 只支持单继承  </p><p>例如定义一个语文老师类和数学老师类，如果不采用继承方式，那么两个类中需要定义的属性和方法如图：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/3-1Q01G40613629.jpg">  </p></li></ol><p>语文老师类和数学老师类中的许多属性和方法相同，这些相同的属性和方法可以提取出放在一个父类中，这个父类用于被语文老师类和数学老师类继承。当然父类还可以继承别的类，如图所示：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/3-1Q01G40AR23.jpg" style="zoom:80%;" />  </p><p>总结上图的继承关系，可以用概括的树形关系来表示，如图所示：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/3-1Q01G40RT47.jpg">  </p><p>从图中可以看出，学校主要人员是一个大的类别，老师和学生是学校主要人员的两个子类，而老师又可以分为语文老师和数学老师两个子类，学生也可以分为班长和组长两个子类。  </p><p>使用这种层次形的分类方式，是为了将多个类的通用属性和方法提取出来，放在它们的父类中，然后只需要在子类中各自定义自己独有的属性和方法，并以继承的形式在父类中获取它们的通用属性和方法即可。  </p><p><strong>封装性</strong>  </p><p>封装是将代码及其处理的数据绑定在一起的一种编程机制。封装的目的在于保护信息  </p><p><em>Java 语言的基本封装单位是类</em>，类的用途是封装复杂性，所以类的内部有隐藏实现复杂性的机制。  </p><p><strong>多态性</strong>  </p><p>即”一个接口，多个方法”。<em>多态性允许一个接口被多个同类使用</em>，弥补了单继承的不足。多态概念可以用树形关系来表示，如图所示：<img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/3-1Q01G4095bW.jpg" style="zoom:50%;" /></p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/60480506_p0.jpg&quot;&gt;  &lt;/p&gt;</summary>
