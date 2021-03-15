@@ -6,7 +6,7 @@
   <link href="https://li-hui327.github.io/My2Blog/atom.xml" rel="self"/>
   
   <link href="https://li-hui327.github.io/My2Blog/"/>
-  <updated>2021-03-08T14:16:47.046Z</updated>
+  <updated>2021-03-15T14:22:11.458Z</updated>
   <id>https://li-hui327.github.io/My2Blog/</id>
   
   <author>
@@ -15,6 +15,48 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>虎牙云游戏手机端体验</title>
+    <link href="https://li-hui327.github.io/My2Blog/2021/03/15/%E8%99%8E%E7%89%99%E4%BA%91%E6%B8%B8%E6%88%8F%E6%89%8B%E6%9C%BA%E7%AB%AF%E4%BD%93%E9%AA%8C/"/>
+    <id>https://li-hui327.github.io/My2Blog/2021/03/15/%E8%99%8E%E7%89%99%E4%BA%91%E6%B8%B8%E6%88%8F%E6%89%8B%E6%9C%BA%E7%AB%AF%E4%BD%93%E9%AA%8C/</id>
+    <published>2021-03-15T14:09:51.000Z</published>
+    <updated>2021-03-15T14:22:11.458Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://w.wallhaven.cc/full/z8/wallhaven-z887yw.jpg">  </p><a id="more"></a>  <p> 不得不说，体验云游戏的感觉就是速度快，延迟特别小，有个缺点就是手机不太好操作 PC 端游戏，反应也挺快的，就是人的思路没有跟上，哈哈😂，我用手机打了两盘联盟，真心想说，我太难了，还是不能适应它的操作啊，暂且就这样吧，我觉得云游戏可能是以后游戏的一个发展趋势，普通人也许不需要配置很好的电脑就能玩要求很高的游戏，同样，手机也是如此，让我们拭目以待吧！不得不说，云游戏的确还有很长一段路要走。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://w.wallhaven.cc/full/z8/wallhaven-z887yw.jpg&quot;&gt;  &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="游戏" scheme="https://li-hui327.github.io/My2Blog/categories/%E6%B8%B8%E6%88%8F/"/>
+    
+    
+    <category term="生活" scheme="https://li-hui327.github.io/My2Blog/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ENIAC 计算机与 ABC 计算机的关于第一台计算机的十余年之争</title>
+    <link href="https://li-hui327.github.io/My2Blog/2021/03/09/ENIAC%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%8EABC%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%85%B3%E4%BA%8E%E7%AC%AC%E4%B8%80%E5%8F%B0%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8D%81%E4%BD%99%E5%B9%B4%E4%B9%8B%E4%BA%89/"/>
+    <id>https://li-hui327.github.io/My2Blog/2021/03/09/ENIAC%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%8EABC%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%85%B3%E4%BA%8E%E7%AC%AC%E4%B8%80%E5%8F%B0%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%9A%84%E5%8D%81%E4%BD%99%E5%B9%B4%E4%B9%8B%E4%BA%89/</id>
+    <published>2021-03-09T15:03:27.000Z</published>
+    <updated>2021-03-09T15:08:36.175Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://w.wallhaven.cc/full/k9/wallhaven-k9m376.png">  </p><a id="more"></a>  <p> 分享一篇文章 <a href="https://baijiahao.baidu.com/s?id=1645658087402989097&wfr=spider&for=pc">ENIAC 计算机与 ABC 计算机的关于第一台计算机的十余年之争 </a>。</p>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://w.wallhaven.cc/full/k9/wallhaven-k9m376.png&quot;&gt;  &lt;/p&gt;</summary>
+    
+    
+    
+    <category term="随笔" scheme="https://li-hui327.github.io/My2Blog/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="生活" scheme="https://li-hui327.github.io/My2Blog/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Python Eclipse+PyDec 下载和安装教程</title>
@@ -63,9 +105,9 @@
     <link href="https://li-hui327.github.io/My2Blog/2021/03/06/Java%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/"/>
     <id>https://li-hui327.github.io/My2Blog/2021/03/06/Java%E7%B1%BB%E5%92%8C%E5%AF%B9%E8%B1%A1/</id>
     <published>2021-03-06T07:43:49.000Z</published>
-    <updated>2021-03-08T14:24:52.315Z</updated>
+    <updated>2021-03-15T14:05:54.328Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/wallhaven-n6g1dl.jpg"></p><a id="more"></a>  <p> 原创详见 <a href="http://c.biancheng.net/java/80/">Java 类和对象 </a>  </p><h2 id="本章学习要点"><a href="# 本章学习要点" class="headerlink" title="本章学习要点"></a> 本章学习要点 </h2><ol><li> 掌握类的声明和类的成员  </li><li> 熟悉类的构造方法及其使用  </li><li> 掌握对象的创建、销毁和使用  </li><li> 掌握 main() 方法、构造方法和析构方法的使用  </li><li> 熟悉 this 关键字的使用  </li><li> 了解系统提供的常用包  </li><li> 掌握如何声明和使用包  </li></ol><p> 本章内容：</p><table><thead><tr><th align="center">:—:</th><th align="center">:—:</th><th align="center">:—:</th><th align="center">:—:</th></tr></thead><tbody><tr><td align="center"><a href="/My2Blog/2021/02/16/%E6%B5%85%E8%B0%88Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1">1. 浅谈 Java 面向对象 </a></td><td align="center"><a href="http://c.biancheng.net/view/940.html">2. Java 认识类和对象 </a></td><td align="center"><a href="http://c.biancheng.net/view/943.html">3. Java 类的定义以及定义类时可用的关键字 </a></td><td align="center"><a href="http://c.biancheng.net/view/945.html">4. Java 类的属性：成员变量的定义和声明 </a></td></tr><tr><td align="center"><a href="http://c.biancheng.net/view/948.html">5. Java 创建一个学生类 </a></td><td align="center"><a href="http://c.biancheng.net/view/952.html">6. Java 成员方法的声明和调用 </a></td><td align="center"><a href="http://c.biancheng.net/view/953.html">7. Java this 关键字详解（3 种用法）</a></td><td align="center"><a href="http://c.biancheng.net/view/956.html">8. Java 创建对象详解（显式创建和隐含创建）</a></td></tr><tr><td align="center"><a href="https://blog.csdn.net/qq_44861675/article/details/105428749?utm_source=app&app_version=4.5.2">9. Java new 运算符深入剖析 </a></td><td align="center"><a href="http://c.biancheng.net/view/6104.html">10. Java 匿名对象 </a></td><td align="center"><a href="http://c.biancheng.net/view/957.html">11. Java 访问对象的属性和行为 </a></td><td align="center"><a href="http://c.biancheng.net/view/959.html">12. Java 对象的销毁 </a></td></tr><tr><td align="center"><a href="/My2Blog/2021/03/01/Java%E4%B8%AD%E7%9A%84%E7%A9%BA%E5%AF%B9%E8%B1%A1">13. Java 中的空对象 </a></td><td align="center"><a href="/My2Blog/2021/03/01/Java%E7%94%A8%E6%88%B7%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81%E7%A8%8B%E5%BA%8F">14. Java 用户修改密码程序 </a></td><td align="center"><a href="/My2Blog/2021/03/01/Java%E6%B3%A8%E9%87%8A-%E7%B1%BB%E3%80%81%E6%96%B9%E6%B3%95%E5%92%8C%E5%AD%97%E6%AE%B5%E6%B3%A8%E9%87%8A">15. Java 注释类、方法和字段注释 </a></td><td align="center"><a href="/My2Blog/2021/03/05/Java%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6%E4%BF%AE%E9%A5%B0%E7%AC%A6%E8%AF%A6%E8%A7%A3">16. Java 访问控制修饰符详解 </a></td></tr><tr><td align="center"><a href="http://c.biancheng.net/view/6150.html">17. Java import static 静态导入 </a></td><td align="center">[18. Java static 的常见问题和使用误区](/My2Blog/2021/03/07/Java static 的常见问题和使用误区)</td><td align="center"><a href="http://c.biancheng.net/view/6053.html">19. Java final 修饰符详解 </a></td><td align="center"></td></tr></tbody></table>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/wallhaven-n6g1dl.jpg"></p><a id="more"></a>  <p>原创详见<a href="http://c.biancheng.net/java/80/">Java 类和对象</a>  </p><h2 id="本章学习要点"><a href="# 本章学习要点" class="headerlink" title="本章学习要点"></a>本章学习要点</h2><ol><li>掌握类的声明和类的成员  </li><li>熟悉类的构造方法及其使用  </li><li>掌握对象的创建、销毁和使用  </li><li>掌握 main()方法、构造方法和析构方法的使用  </li><li>熟悉 this 关键字的使用  </li><li>了解系统提供的常用包  </li><li>掌握如何声明和使用包  </li></ol><p>本章内容：</p><table><thead><tr><th align="center"><a href="/My2Blog/2021/02/16/%E6%B5%85%E8%B0%88Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1">1. 浅谈 Java 面向对象</a></th><th align="center"><a href="http://c.biancheng.net/view/940.html">2. Java 认识类和对象</a></th><th align="center"><a href="http://c.biancheng.net/view/943.html">3. Java 类的定义以及定义类时可用的关键字</a></th><th align="center"><a href="http://c.biancheng.net/view/945.html">4. Java 类的属性：成员变量的定义和声明</a></th></tr></thead><tbody><tr><td align="center"><a href="http://c.biancheng.net/view/948.html">5. Java 创建一个学生类</a></td><td align="center"><a href="http://c.biancheng.net/view/952.html">6. Java 成员方法的声明和调用</a></td><td align="center"><a href="http://c.biancheng.net/view/953.html">7. Java this 关键字详解（3 种用法）</a></td><td align="center"><a href="http://c.biancheng.net/view/956.html">8. Java 创建对象详解（显式创建和隐含创建）</a></td></tr><tr><td align="center"><a href="https://blog.csdn.net/qq_44861675/article/details/105428749?utm_source=app&app_version=4.5.2">9. Java new 运算符深入剖析</a></td><td align="center"><a href="http://c.biancheng.net/view/6104.html">10. Java 匿名对象</a></td><td align="center"><a href="http://c.biancheng.net/view/957.html">11. Java 访问对象的属性和行为</a></td><td align="center"><a href="http://c.biancheng.net/view/959.html">12. Java 对象的销毁</a></td></tr><tr><td align="center"><a href="/My2Blog/2021/03/01/Java%E4%B8%AD%E7%9A%84%E7%A9%BA%E5%AF%B9%E8%B1%A1">13. Java 中的空对象</a></td><td align="center"><a href="/My2Blog/2021/03/01/Java%E7%94%A8%E6%88%B7%E4%BF%AE%E6%94%B9%E5%AF%86%E7%A0%81%E7%A8%8B%E5%BA%8F">14. Java 用户修改密码程序</a></td><td align="center"><a href="/My2Blog/2021/03/01/Java%E6%B3%A8%E9%87%8A-%E7%B1%BB%E3%80%81%E6%96%B9%E6%B3%95%E5%92%8C%E5%AD%97%E6%AE%B5%E6%B3%A8%E9%87%8A">15. Java 注释类、方法和字段注释</a></td><td align="center"><a href="/My2Blog/2021/03/05/Java%E8%AE%BF%E9%97%AE%E6%8E%A7%E5%88%B6%E4%BF%AE%E9%A5%B0%E7%AC%A6%E8%AF%A6%E8%A7%A3">16. Java 访问控制修饰符详解</a></td></tr><tr><td align="center"><a href="http://c.biancheng.net/view/6150.html">17. Java import static 静态导入</a></td><td align="center">[18. Java static 的常见问题和使用误区](/My2Blog/2021/03/07/Java static 的常见问题和使用误区)</td><td align="center"><a href="http://c.biancheng.net/view/6053.html">19. Java final 修饰符详解</a></td><td align="center"><a href="http://c.biancheng.net/view/6053.html">20. Java final 修饰符详解</a></td></tr><tr><td align="center"><a href="http://c.biancheng.net/view/972.html">21. Java main()方法</a></td><td align="center"><a href="https://blog.csdn.net/qq_51372098/article/details/112699979?utm_source=app&app_version=4.5.2">22. Java 中的 main()方法的格式为什么是固定不变的</a></td><td align="center"><a href="http://c.biancheng.net/view/974.html">23. Java 方法的可变参数</a></td><td align="center"><a href="http://c.biancheng.net/view/976.html">24. Java 构造方法</a></td></tr><tr><td align="center"><a href="http://c.biancheng.net/view/979.html">25. Java 查询个人信息</a></td><td align="center"><a href="http://c.biancheng.net/view/980.html">26. Java 析构方法</a></td><td align="center"><a href="http://c.biancheng.net/view/6084.html">27. Java 包 (package) 详解</a></td><td align="center"><a href="http://c.biancheng.net/view/985.html">28. Java 使用自定义包</a></td></tr><tr><td align="center"><a href="http://c.biancheng.net/view/6116.html">29. Java 递归算法</a></td><td align="center"></td><td align="center"></td><td align="center"></td></tr></tbody></table>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/wallhaven-n6g1dl.jpg&quot;&gt;&lt;/p&gt;</summary>
@@ -170,7 +212,7 @@
     <published>2021-02-26T12:35:35.000Z</published>
     <updated>2021-03-08T14:38:56.399Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://w.wallhaven.cc/full/l3/wallhaven-l397wr.png" alt=" "></p><a id="more"></a>  <p>转载一篇文章，原创 <a href="https://mp.weixin.qq.com/s/tglPT8ipyUuvg6JJmm-F6A"><em> 中国程序员 VS 美国程序员，太形象了…</em></a>，作者：不笑青年，公众号：不会笑青年  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican2.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican3.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican4.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican5.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican6.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican7.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican8.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican9.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican10.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican11.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican12.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican13.jpg">  </p><p>本人无意侵犯原作者著作权，若此文章侵犯了您的权益，请将相关版权信息提交至邮箱<a href="mailto:&#x32;&#x33;&#x32;&#x32;&#x30;&#51;&#x33;&#51;&#52;&#x38;&#64;&#x71;&#113;&#46;&#99;&#111;&#109;">&#x32;&#x33;&#x32;&#x32;&#x30;&#51;&#x33;&#51;&#52;&#x38;&#64;&#x71;&#113;&#46;&#99;&#111;&#109;</a>，我会第一时间处理，谢谢！</p>]]></content>
+    <content type="html"><![CDATA[<p><img src="https://w.wallhaven.cc/full/l3/wallhaven-l397wr.png" alt=" "></p><a id="more"></a>  <p>转载一篇文章，原创 <a href="https://mp.weixin.qq.com/s/tglPT8ipyUuvg6JJmm-F6A"><em> 中国程序员 VS 美国程序员，太形象了…</em></a>，作者：不笑青年，公众号：不会笑青年  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican2.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican3.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican4.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican5.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican6.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican7.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican8.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican9.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican10.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican11.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican12.jpg">  </p><p><img src="https://cdn.jsdelivr.net/gh/Li-hui327/PhotoBed/img/ChinaVSAmerican13.jpg">  </p><p>本人无意侵犯原作者著作权，若此文章侵犯了您的权益，请将相关版权信息提交至邮箱<a href="mailto:&#x32;&#51;&#50;&#x32;&#48;&#x33;&#51;&#51;&#x34;&#56;&#x40;&#113;&#113;&#46;&#99;&#111;&#109;">&#x32;&#51;&#50;&#x32;&#48;&#x33;&#51;&#51;&#x34;&#56;&#x40;&#113;&#113;&#46;&#99;&#111;&#109;</a>，我会第一时间处理，谢谢！</p>]]></content>
     
     
     <summary type="html">&lt;p&gt;&lt;img src=&quot;https://w.wallhaven.cc/full/l3/wallhaven-l397wr.png&quot; alt=&quot; &quot;&gt;&lt;/p&gt;</summary>
